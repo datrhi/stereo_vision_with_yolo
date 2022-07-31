@@ -1,0 +1,4 @@
+D:\UniverProjRepo\stereo_vision_with_yolo\yolo-coco-data\coco.names
+D:\UniverProjRepo\stereo_vision_with_yolo\yolo-coco-data\yolov4-tiny.cfg
+D:\UniverProjRepo\stereo_vision_with_yolo\yolo-coco-data\yolov4-tiny.weights
+Today 
